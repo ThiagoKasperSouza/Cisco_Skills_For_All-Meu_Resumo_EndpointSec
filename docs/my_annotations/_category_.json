@@ -1,0 +1,8 @@
+{
+  "label": "My Annotations",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "My annotations from endpoint security module"
+  }
+}
