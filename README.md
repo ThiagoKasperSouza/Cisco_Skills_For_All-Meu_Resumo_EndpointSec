@@ -1,4 +1,4 @@
-# Website
+# Cisco Skills for all endpoint security - my annotations
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
