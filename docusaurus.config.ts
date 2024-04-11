@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Cisco Skills for all resume',
+  title: 'Cisco Skills for all summary',
   tagline: 'my annotations',
   favicon: 'img/favicon.ico',
 
